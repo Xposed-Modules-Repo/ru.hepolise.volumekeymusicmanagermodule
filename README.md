@@ -18,4 +18,4 @@ Android 11+ (may be working on lower versions, you can try and install it even o
 
 * OnePlus 10 Pro (Android 13 & 14)
 
-[Let me know](t.me/n5294) if you are experiencing some issues on your device
+[Let me know](https://t.me/n5294) if you are experiencing some issues on your device
