@@ -1,4 +1,4 @@
-# Volume Key Music Manager Module
+# Volume Key Track Control Module
 
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/ru.hepolise.volumekeymusicmanagermodule)](https://github.com/Xposed-Modules-Repo/ru.hepolise.volumekeymusicmanagermodule/releases/latest)
 
